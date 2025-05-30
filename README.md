@@ -1,13 +1,13 @@
-# Readme.txt file for the model associated with the papers
+# Readme file for the model associated with the papers
 
-Amir R, Devor M.
+Amir R, Devor M.  
 Electrical excitability of the soma of sensory neurons is required for
-spike invasion of the soma, but not for through-conduction.
+spike invasion of the soma, but not for through-conduction.  
 *Biophys J.* 2003 Apr;84(4):2181-91.
 
-Amir R, Devor M.
+Amir R, Devor M.  
 Extra spike formation in sensory neurons and the disruption of afferent
-spike patterning.
+spike patterning.  
 *Biophys J.* 2003 Apr;84(4):2700-8.
 
 Approximate versions of Figures 2 and 3 from the first paper are recreated
